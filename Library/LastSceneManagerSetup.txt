@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_Scene/jacobi_With7dofArm.unity
+  isLoaded: 1
+  isActive: 1
